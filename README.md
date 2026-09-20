@@ -1,2 +1,1 @@
-# udemy-simple-webiste
-Created this webiste as test page.
+While building this project, I successfully learned how to create Flex, card
